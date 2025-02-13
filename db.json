@@ -2,63 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "Name": "Rezept 1",
-      "isFavorite": 0,
-      "isReadonly": 0
-    },
-    {
-      "id": 2,
-      "Name": "Rezept 2",
-      "isFavorite": 0,
-      "isReadonly": 0
-    },
-    {
-      "id": 3,
-      "Name": "Rezept 3",
-      "isFavorite": 1,
-      "isReadonly": 1
-    },
-    {
-      "id": 4,
-      "Name": "Rezept 4",
-      "isFavorite": 0,
-      "isReadonly": 0
-    },
-    {
-      "id": 5,
-      "Name": "Rezept 5",
-      "isFavorite": 0,
-      "isReadonly": 0
-    },
-    {
-      "id": 6,
-      "Name": "Rezept 6",
-      "isFavorite": 1,
-      "isReadonly": 0
-    },
-    {
-      "id": 7,
-      "Name": "Rezept 7",
-      "isFavorite": 0,
-      "isReadonly": 1
-    },
-    {
-      "id": 8,
-      "Name": "Rezept 8",
-      "isFavorite": 1,
-      "isReadonly": 1
-    },
-    {
-      "id": 9,
-      "Name": "Rezept 9",
-      "isFavorite": 0,
-      "isReadonly": 0
-    },
-    {
-      "id": 10,
-      "Name": "Rezept 10",
-      "isFavorite": 0,
-      "isReadonly": 0
-    } 
-  ]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
