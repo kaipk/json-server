@@ -59,6 +59,66 @@
 	  "Name": "Rezept 10",
 	  "isFavorite": 0,
 	  "isReadonly": 0
+	},
+	{
+	  "id": 11,
+	  "Name": "Rezept 11",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 12,
+	  "Name": "Rezept 12",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 13,
+	  "Name": "Rezept 13",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 14,
+	  "Name": "Rezept 14",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 15,
+	  "Name": "Rezept 15",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 16,
+	  "Name": "Rezept 16",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 17,
+	  "Name": "Rezept 17",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 18,
+	  "Name": "Rezept 18",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 19,
+	  "Name": "Rezept 19",
+	  "isFavorite": 0,
+	  "isReadonly": 0
+	},
+	{
+	  "id": 20,
+	  "Name": "Rezept 20",
+	  "isFavorite": 0,
+	  "isReadonly": 0
 	} 
   ]
 }
